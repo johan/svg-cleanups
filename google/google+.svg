@@ -1,0 +1,54 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 124.441 124.424" enable-background="new 0 0 124.441 124.424">
+ <radialGradient id="D" gradientUnits="userSpaceOnUse" cy="27.5049" cx="62.0859" r="88.667">
+  <stop stop-color="#606060" offset="0"/>
+  <stop stop-color="#000" offset="1"/>
+ </radialGradient>
+ <path d="m0 110.627c0 7.619 6.178 13.797 13.797 13.797h96.848c7.619 0 13.797-6.178 13.797-13.797v-91.797h-124.442v91.797z" fill="url(#D)"/>
+ <defs>
+  <filter id="h" height="105.594" width="124.441" y="18.83" x="0" filterUnits="userSpaceOnUse">
+   <feColorMatrix values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" type="matrix" color-interpolation-filters="sRGB" result="source"/>
+  </filter>
+  <filter id="S" filterUnits="userSpaceOnUse" width="120" height="140">
+   <feGaussianBlur in="SourceAlpha" result="b" stdDeviation="0.71"/>
+   <feOffset in="b" result="s" dx="1.7" dy="1.7"/>
+   <feBlend in="SourceGraphic" in2="s" mode="normal"/>
+  </filter>
+ </defs>
+ <mask id="g" height="105.594" width="124.441" y="18.83" x="0" maskUnits="userSpaceOnUse">
+  <g filter="url(#h)">
+   <image width="536" overflow="visible" xlink:href="google+-backdrop.jpg" transform="matrix(.24 0 0 .24 -2 16.8301)" height="457"/>
+  </g>
+ </mask>
+ <g opacity=".4" mask="url(#g)">
+  <path d="m0 110.627c0 7.619 6.178 13.797 13.797 13.797h96.848c7.619 0 13.797-6.178 13.797-13.797v-91.797h-124.442v91.797z"/>
+ </g>
+ <linearGradient id="L" y2="120.0375" gradientUnits="userSpaceOnUse" x2="0" y1="59.6572">
+  <stop stop-color="#fff" offset="0"/>
+  <stop stop-color="#CECECE" offset="1"/>
+ </linearGradient>
+ <g id="P" fill="url(#L)">
+  <path d="m58.183 40.579c2.074 1.717 6.412 5.328 6.412 12.198 0 6.688-3.793 9.85-7.587 12.828-1.177 1.176-2.531 2.439-2.531 4.43 0 1.987 1.354 3.073 2.348 3.884l3.253 2.53c3.978 3.341 7.592 6.416 7.592 12.65 0 8.494-8.224 17.075-23.766 17.075-13.102 0-19.425-6.234-19.425-12.921 0-3.253 1.626-7.858 6.959-11.023 5.599-3.432 13.192-3.882 17.255-4.155-1.265-1.626-2.71-3.346-2.71-6.143 0-1.537.454-2.438.903-3.524-.995.09-1.986.181-2.893.181-9.575 0-14.999-7.138-14.999-14.185 0-4.156 1.901-8.768 5.784-12.108 5.15-4.247 11.296-4.969 16.172-4.969h18.613l-5.782 3.252h-5.598zm-6.416 40.117c-.727-.091-1.177-.091-2.076-.091-.816 0-5.697.181-9.49 1.444-1.987.724-7.769 2.891-7.769 9.308 0 6.416 6.23 11.021 15.902 11.021 8.674 0 13.277-4.154 13.277-9.755 0-4.609-2.977-7.047-9.844-11.927m2.62-17.166c2.081-2.079 2.258-4.973 2.258-6.599 0-6.504-3.887-16.625-11.385-16.625-2.348 0-4.878 1.175-6.326 2.982-1.534 1.9-1.987 4.338-1.987 6.686 0 6.052 3.522 16.086 11.296 16.086 2.257.001 4.694-1.085 6.144-2.53"/>
+  <polygon points="104.102 50.684 90.377 50.684 90.377 36.959 86.945 36.959 86.945 50.684 73.221 50.684 73.221 54.115 86.945 54.115 86.945 67.839 90.377 67.839 90.377 54.115 104.102 54.115"/>
+ </g>
+ <use xlink:href="#P" filter="url(#S)" opacity=".7"/>
+ <linearGradient id="Y" y2="29.0229" gradientUnits="userSpaceOnUse" x2="0" y1="6.9951">
+  <stop stop-color="#FFCA27" offset="0"/>
+  <stop stop-color="#8C6B0C" offset="1"/>
+ </linearGradient>
+ <path d="m124.441 13.798c0-7.621-6.177-13.798-13.796-13.798h-17.946v18.849h31.742v-5.051z" fill="url(#Y)"/>
+ <linearGradient id="R" y2="28.2466" gradientUnits="userSpaceOnUse" x2="0" y1="5.4429">
+  <stop stop-color="#E32C3B" offset="0"/>
+  <stop stop-color="#9B0013" offset="1"/>
+ </linearGradient>
+ <path d="m13.797 0c-7.619 0-13.797 6.177-13.797 13.798v5.051h31.742v-18.849h-17.945z" fill="url(#R)"/>
+ <linearGradient id="B" y2="26.6235" gradientUnits="userSpaceOnUse" x2="0" y1="4.3784">
+  <stop stop-color="#148EE3" offset="0"/>
+  <stop stop-color="#045A89" offset="1"/>
+ </linearGradient>
+ <rect x="31.218" height="18.849" width="31.766" fill="url(#B)"/>
+ <linearGradient id="G" y2="27.4956" gradientUnits="userSpaceOnUse" x2="0" y1="4.3784">
+  <stop stop-color="#36C520" offset="0"/>
+  <stop stop-color="#177007" offset="1"/>
+ </linearGradient>
+ <rect x="62.458" height="18.849" width="30.766" fill="url(#G)"/>
+</svg>
