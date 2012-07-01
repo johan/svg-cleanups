@@ -1,39 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 196 195">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 196 195">
  <title>Google Developers Logo</title>
- <metadata><rdf:RDF>
-  <cc:Work>
-   <dc:format>image/svg+xml</dc:format>
-   <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   <dc:title>Google Developers Logo</dc:title>
-   <dc:language>en</dc:language>
-   <cc:license rdf:resource="http://creativecommons.org/licenses/by/3.0/"/>
-   <dc:creator>
-    <cc:Agent>
-     <dc:title>Misha M.-Kupriyanov aka @russenreaktor</dc:title>
-    </cc:Agent>
-   </dc:creator>
-   <dc:source>https://plus.google.com/111395306401981598462/posts</dc:source>
-   <dc:description>Google Developers Logo</dc:description>
-   <dc:publisher>
-    <cc:Agent>
-     <dc:title>https://plus.google.com/104512463398531242371</dc:title>
-    </cc:Agent>
-   </dc:publisher>
-   <dc:rights>
-    <cc:Agent>
-     <dc:title>The copyright of Google Developers logo belongs to Google</dc:title>
-    </cc:Agent>
-   </dc:rights>
-  </cc:Work>
-  <cc:License rdf:about="http://creativecommons.org/licenses/by/3.0/">
-    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
-    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
-    <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
-    <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
-    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
-  </cc:License>
- </rdf:RDF></metadata>
-<defs>
+ <defs>
   <radialGradient id="a" gradientUnits="userSpaceOnUse" cy="138.30658" cx="172.10435" gradientTransform="matrix(1.2423376 -.90962141 1.3977013 1.9089444 -236.9888 33.874624)" r="18.57762">
    <stop stop-color="#daac3c" offset="0"/>
    <stop stop-color="#f7c542" offset="1"/>
