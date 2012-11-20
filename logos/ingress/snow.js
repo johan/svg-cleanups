@@ -1,4 +1,4 @@
-var NUM_FLAKES = 80;
+var NUM_FLAKES = +(location.hash.slice(1) || 80);
 
 window.onload = function init() {
   var snow = document.getElementById('snow');
